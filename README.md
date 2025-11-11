@@ -2,7 +2,8 @@
   
 
 <!-- divider --> 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/4677ce96-08b1-4b48-85ce-279a28e43924" />
+<img width="700" height="500" alt="2025_11_10_11m_Kleki" src="https://github.com/user-attachments/assets/91fdee2f-f526-4d4c-a395-9f36d1e2a51e" />
+
 
 
 
@@ -87,7 +88,8 @@ ${\textsf{\color{#7b0000}"There's something behind you"}}$
 
 <div align="center">
   
-<img width="2048" height="831" alt="2025_11_10_13b_Kleki" src="https://github.com/user-attachments/assets/31415501-262e-4bf8-9a4c-628062c98b34" />
+<img width="700" height="500" alt="2025_11_10_11n_Kleki" src="https://github.com/user-attachments/assets/2feb5339-3e17-40b9-a297-27668902727d" />
+
 
 <img src="https://komarev.com/ghpvc/?username=kaleidoInferno&style=flat-square&color=7b0000&label=⯎+..+button+pressers+"/>
 
