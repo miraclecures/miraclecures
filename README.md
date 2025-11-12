@@ -1,5 +1,8 @@
 <div align="center">
   
+${\textsf{\color{#7b0000}" hehe...hi there ♡ "}}$
+
+  
 
 <!-- divider --> 
 <img width="700" height="500" alt="2025_11_10_11m_Kleki" src="https://github.com/user-attachments/assets/91fdee2f-f526-4d4c-a395-9f36d1e2a51e" />
