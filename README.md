@@ -59,6 +59,19 @@ ${\textsf{\color{#262626}whimsymaxxing AND evilmaxxing}}$
 
 ${\textsf{\color{#262626}yes i have beaten pressure}}$
 
+
+
+<!-- boop -->
+
+<div align="left">
+
+
+![pony-town-( _hehe---hi there~_ )-sit-blinking-padded-4x (1)](https://github.com/user-attachments/assets/1db4f185-7ff7-4334-ab94-c6e921c6f93a)
+
+
+
+
+
 <!-- full bod IF -->
 
 <div align="right">
@@ -66,6 +79,9 @@ ${\textsf{\color{#262626}yes i have beaten pressure}}$
 <img width="257" height="530" alt="2025_11_10_12v_Kleki" src="https://github.com/user-attachments/assets/7ed12269-8b2c-489d-a82d-f297c67f11f7" />
 
 <div/>
+
+
+
 
 <!-- steal my code and i WILL find you, this is a threat -->
 
@@ -79,13 +95,6 @@ ${\textsf{\color{#262626}yes i have beaten pressure}}$
 
 ${\textsf{\color{#7b0000}"There's something behind you"}}$
 
-<!-- save and continue? -->
-
-<div align="center">
-
-![tumblr_6c47f64528ef7d64ca593b7623009328_6ba22976_400](https://github.com/user-attachments/assets/c902669b-e4a2-4757-a271-85fbb095ca73)
-
-<div/>
 
 <!-- end divider and user visits -->
 
