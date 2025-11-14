@@ -38,7 +38,7 @@ ${\textsf{\color{#7b0000}︶⊹　kasper　:　he / any　⊹︶}}$
 
 ${\textsf{\color{#712323}︵︵　adhd + hypersexual　 ︵︵}}$
 
-[1](https://miraclecures.carrd.co/#)
+[1](https://miraclecures.carrd.co/#)  [2](https://pronouns.cc/@miraclecures)
 
 
 ![428be501](https://github.com/user-attachments/assets/51c0179f-236c-4777-904a-1199f0fffaa9) ${\textsf{\color{#7b0000}pressure fans int !!}}$
