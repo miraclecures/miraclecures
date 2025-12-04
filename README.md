@@ -69,6 +69,6 @@ ${\textsf{\color{#ea62d1}ADHD}}$ ${\textsf{\color{#2cd6ca}+}}$ ${\textsf{\color{
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k6odndxnbzparnf5qq4vwjkyb4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=737373&bar_color_cover=true">
+    <img src="https://spotify-github-profile.arcadepilled.com/api/view?uid=31k6odndxnbzparnf5qq4vwjkyb4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=737373&bar_color_cover=true">
   </a>
 </p>
